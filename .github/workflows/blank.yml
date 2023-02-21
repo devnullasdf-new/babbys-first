@@ -31,4 +31,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          curl https://calc.sh/
+          curl https://calc.sh/github_actions
